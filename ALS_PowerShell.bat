@@ -3,4 +3,4 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://www.abtel.
 pause
 
 rem ouverture de l'exécutable
-start logMeNimIns_12.exe -silent -client ABTEL
+start logMeNimIns_12.exe
